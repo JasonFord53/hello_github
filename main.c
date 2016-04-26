@@ -2,4 +2,6 @@
 
 int main{
         printf("Welcome to Github");
+
+        return 0;
 }
